@@ -1,4 +1,4 @@
-View the project (here🔗)[https://react-pizza-menu-kappa.vercel.app/]
+View the project [here🔗](https://react-pizza-menu-kappa.vercel.app/)
 
 ## Available Scripts
 
