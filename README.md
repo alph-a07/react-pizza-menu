@@ -43,3 +43,7 @@ Remember, you don’t have to eject to use the app. The default setup is perfect
 ## 🍕 Ready to Create?
 
 With these scripts, you're all set to start building, testing, and deploying your pizza menu app. Dive in, have fun, and may your code be ever tasty and bug-free! 🍕✨
+
+## Credits
+
+This project is a part of my learning process from [Jonas Schmedtmann](https://github.com/jonasschmedtmann)🫡.
