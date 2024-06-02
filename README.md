@@ -2,7 +2,7 @@
 
 Hey there, pizza lover! Ready to create something deliciously fun? This project will take you on a coding adventure with React, where you’ll build an awesome pizza menu app. Let's get started!
 
-View the project live [here🔗](https://react-pizza-menu-kappa.vercel.app/)
+View the project live [here🔗](https://reactpizzaco.vercel.app/)
 
 ## 🍕 Available Scripts
 
